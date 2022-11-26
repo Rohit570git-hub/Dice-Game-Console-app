@@ -1,0 +1,15 @@
+C:\Users\rk150\OneDrive\Desktop\csproj\bin\Debug\net7.0\csproj.exe
+C:\Users\rk150\OneDrive\Desktop\csproj\bin\Debug\net7.0\csproj.deps.json
+C:\Users\rk150\OneDrive\Desktop\csproj\bin\Debug\net7.0\csproj.runtimeconfig.json
+C:\Users\rk150\OneDrive\Desktop\csproj\bin\Debug\net7.0\csproj.dll
+C:\Users\rk150\OneDrive\Desktop\csproj\bin\Debug\net7.0\csproj.pdb
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\csproj.csproj.AssemblyReference.cache
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\csproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\csproj.AssemblyInfoInputs.cache
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\csproj.AssemblyInfo.cs
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\csproj.csproj.CoreCompileInputs.cache
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\csproj.dll
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\refint\csproj.dll
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\csproj.pdb
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\csproj.genruntimeconfig.cache
+C:\Users\rk150\OneDrive\Desktop\csproj\obj\Debug\net7.0\ref\csproj.dll
